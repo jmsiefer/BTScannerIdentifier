@@ -1,5 +1,5 @@
 
-# Bluetooth BLE Scanner GUI
+# Bluetooth Scanner GUI
 
 A Python application with a Tkinter GUI that scans for Bluetooth Low Energy (BLE) devices, attempts to connect to them to check if they require security, and allows the user to stop the scan and receive partial results.
 
